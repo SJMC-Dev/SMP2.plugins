@@ -1,0 +1,11 @@
+name: InfiniteScaffold
+version: '${project.version}'
+main: me.w1049.infinitescaffold.InfiniteScaffold
+api-version: '1.20'
+author: w1049
+commands:
+  infinitescaffold:
+    description: This is a demo command.
+    usage: /infinitescaffold give/get/example
+    permission: infinitescaffold
+    permission-message: You don't have <permission>
