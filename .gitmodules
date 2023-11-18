@@ -1,0 +1,3 @@
+[submodule "smp2tools"]
+	path = smp2tools
+	url = https://github.com/ModistAndrew/smp2tools
