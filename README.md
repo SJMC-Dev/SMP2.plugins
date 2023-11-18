@@ -5,7 +5,7 @@
 ## 目录
 已实现插件
 * [InfiniteScaffold, 无限脚手架（2023.8）](#infinite-scaffold)
-* [smp2tools](#smp2tools)
+* [smp2tools（2023.10）](#smp2tools)
 
 <a name="infinite-scaffold"></a>
 ### 无限脚手架
