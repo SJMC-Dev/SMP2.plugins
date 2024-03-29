@@ -1,3 +1,6 @@
 [submodule "smp2tools"]
 	path = smp2tools
 	url = https://github.com/ModistAndrew/smp2tools
+[submodule "MacondAdvant"]
+	path = MacondAdvant
+	url = https://github.com/Cowate/Macond-Advent
