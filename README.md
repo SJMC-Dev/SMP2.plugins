@@ -6,6 +6,7 @@
 已实现插件
 * [InfiniteScaffold, 无限脚手架（2023.8）](#infinite-scaffold)
 * [smp2tools（2023.10）](#smp2tools)
+* [MacondAdvent](#Macond-Advent)
 
 <a name="infinite-scaffold"></a>
 ### 无限脚手架
@@ -17,4 +18,9 @@
 <a name="smp2tools"></a>
 ### smp2tools
 [链接](https://github.com/ModistAndrew/smp2tools)
+* 见README.md
+
+* <a name="Macond-Advent"></a>
+### MacondAdvant
+[链接](https://github.com/Cowate/Macond-Advent)
 * 见README.md
